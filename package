@@ -1,0 +1,12 @@
+{
+  "name": "pptx-service",
+  "version": "1.0.0",
+  "description": "PowerPoint generation microservice for n8n",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
